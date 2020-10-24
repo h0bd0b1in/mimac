@@ -1,2 +1,2 @@
 # mimac
-Project to mimc macOS CLI
+Project to mimic macOS CLI
